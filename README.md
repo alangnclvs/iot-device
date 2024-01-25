@@ -1,5 +1,10 @@
-# iot-device
+# IoT-device
+## Overview
 An IoT device that collects temperature and humidity data from sensors and uploads it to ThingSpeak for remote monitoring.
+
+| ![Image 1](https://github.com/alangnclvs/iot-device/assets/19418344/2a2d5ed6-9261-4432-b26b-10b86a95684c) | ![Image 2](https://github.com/alangnclvs/iot-device/assets/19418344/f1ff26f7-2c04-4d55-b1d4-cdab6e6a6089) |
+| --- | --- |
+
 ## IoT Device for Temperature, Humidity, and Relay Control
 
 This Python code implements an IoT device that:
