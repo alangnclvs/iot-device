@@ -22,4 +22,4 @@ Once the code is uploaded, the device will start measuring temperature and humid
 You can monitor the temperature and humidity data on the [ThingSpeak website](https://thingspeak.com/). You can also use the ThingSpeak website to create alerts and notifications based on the temperature and humidity readings.
 
 
-This code was developed as part of my IoT class at PUC-PR (Pontifical Catholic University of Paraná).
+This code was developed as part of my IoT class at PUC-PR (Pontifícia Universidade Católica do Paraná).
